@@ -1,0 +1,38 @@
+h1
+{
+   margin-left: 600px;
+   color: brown;
+}
+.img1
+{
+    margin-left:50px;
+    
+}
+body
+{
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.data1
+{
+  margin-left:100px;
+}
+p{
+  font-size: 20px;
+  text-align: center;
+}
+.list
+{
+  background-image: transparent;
+}
+.head{
+  margin-left:450px;
+  font-weight:bolder;
+  font-size: 40px;
+  color: rgb(224, 227, 45);
+  font-style: italic;
+}
+
+

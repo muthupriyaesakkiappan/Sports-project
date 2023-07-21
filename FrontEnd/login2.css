@@ -1,0 +1,55 @@
+body
+{
+     background-image: url("https://img.freepik.com/free-vector/medical-technology-science-background-vector-blue-with-blank-space_53876-117739.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head
+{
+ text-align: center;
+}
+.user1
+{
+border:none;
+background: transparent;
+border-top:none;
+border-left:none;
+border-right:none;
+outline: none;
+}
+p{
+   
+    border-bottom: 2px solid white;
+} 
+.log
+{
+    width:330px; 
+    position:absolute;
+    top:100px;
+    left:480px;
+    border-radius: 10px;
+    margin-left: 70px;
+    /* box-shadow: 2px 5px 10px 2px rgb(255,0,255); */
+    border:2px solid white;
+}
+.but
+{
+    border:2px solid white;
+    border-radius:10px;
+    width:95%;
+}
+.reset
+{
+    margin-left:100px;
+    border-bottom: none;
+    color:aliceblue;
+    list-style:none;
+}
+.icon
+{
+font-size:23px;
+margin-left: 30px;
+}
+
+
+/* https://c4.wallpaperflare.com/wallpaper/1023/659/729/background-blue-host-vector-wallpaper-preview.jpg */
